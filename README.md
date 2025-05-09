@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor web com foco em **Angular** e **AdonisJS**, apaixonado por criar aplicações modernas, escaláveis e eficientes. Tenho experiência prática em sistemas ERP, painéis comerciais com Kanban e projetos pessoais que envolvem autenticação, comunicação em tempo real e integração com serviços externos como Google Maps e APIs REST.
+Sou um desenvolvedor web com foco em **Angular**, apaixonado por criar aplicações modernas, escaláveis e eficientes. Tenho experiência prática em sistemas ERP, painéis comerciais com Kanban e projetos pessoais que envolvem autenticação, comunicação em tempo real e integração com serviços externos como Google Maps e APIs REST.
 
 Sou autodidata, curioso e sempre buscando aplicar boas práticas de desenvolvimento, segurança e arquitetura de software.
 
@@ -36,6 +36,7 @@ Sou autodidata, curioso e sempre buscando aplicar boas práticas de desenvolvime
 - Integração com APIs REST
 
 ### Mobile
+- Ionic
 - React Native com Expo (básico)
 
 ### Banco de Dados
@@ -51,8 +52,8 @@ Sou autodidata, curioso e sempre buscando aplicar boas práticas de desenvolvime
 
 ### Outros
 - Git & GitHub
-- JWT, Socket.io
-- Google Maps API
+- JWT, Socket.io (básico)
+- Google Maps API (básico)
 
 ---
 
