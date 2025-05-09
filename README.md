@@ -1,4 +1,4 @@
-# 👨‍💻 Emanuel Lázaro
+# 👨‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Emanuel+Lázaro&center=true&width=500&height=45&color=F75C7E&vCenter=true&size=22)](https://github.com/Emanuel120021)
 
 **Desenvolvedor Web Full Stack**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
